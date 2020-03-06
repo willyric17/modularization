@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mokapos.modularization.customer.ui">
+
+    <application>
+        <activity android:name=".activity.CustomerActivity" />
+    </application>
+</manifest>
